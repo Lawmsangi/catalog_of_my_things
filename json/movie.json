@@ -1,19 +1,8 @@
 {
   "Movies": [
     {
-      "publish_date": "2020-01-18",
-      "silet": true,
-      "id": 13
-    },
-    {
-      "publish_date": "2019-06-11",
-      "silet": false,
-      "id": 54
-    },
-    {
-      "publish_date": "2022-04-12",
-      "silet": true,
-      "id": 162
+      "publish_date": "2010-10-10",
+      "silet": true
     }
   ]
 }
