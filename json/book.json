@@ -1,0 +1,19 @@
+{
+  "Books": [
+    {
+      "publisher": "publisher1",
+      "cover_state": "bad",
+      "publish_date": "2020-11-01"
+    },
+    {
+      "publisher": "publisher2",
+      "cover_state": "bad",
+      "publish_date": "2020-01-15"
+    },
+    {
+      "publisher": "JK Publishers",
+      "cover_state": "good",
+      "publish_date": "2012-11-05"
+    }
+  ]
+}
